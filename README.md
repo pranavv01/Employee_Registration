@@ -1,6 +1,6 @@
 # Employee Registration API
 
-A Spring Boot RESTful API to perform **CRUD operations** on Employee records.
+A Spring Boot RESTful API for CRUD operations on Employee records using PostgreSQL as the database.
 
 ---
 
