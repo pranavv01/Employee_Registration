@@ -17,7 +17,7 @@ The backend uses Spring Boot and Spring Data JPA for persistence.
 
 ---
 
-## Endpoints
+## API Endpoints
 
 | HTTP Method | Endpoint                  | Description                | Request Body             | Response                   |
 |-------------|---------------------------|----------------------------|--------------------------|----------------------------|
