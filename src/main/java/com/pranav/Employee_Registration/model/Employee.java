@@ -16,7 +16,7 @@ public class Employee {
     private String city;
     private String state;
 
-    // ✅ No-arg constructor (required by JPA)
+   
     public Employee() {
     }
 
