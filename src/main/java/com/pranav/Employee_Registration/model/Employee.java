@@ -15,6 +15,7 @@ public class Employee {
     private String gender;
     private String city;
     private String state;
+    private String pincode;
 
    
     public Employee() {
