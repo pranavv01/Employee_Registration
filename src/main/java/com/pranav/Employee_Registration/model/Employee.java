@@ -16,6 +16,7 @@ public class Employee {
     private String city;
     private String state;
     private String pincode;
+    private String country;
 
    
     public Employee() {
