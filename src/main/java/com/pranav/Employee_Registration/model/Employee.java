@@ -17,11 +17,12 @@ public class Employee {
     private String state;
     private String pincode;
     private String country;
+    private String id;
 
    
     public Employee() {
     }
-
+ 
     public Employee(Long Id, String name, String gender, String city, String state) {
         this.Id = Id;
         this.name = name;
