@@ -18,7 +18,8 @@ public class Employee {
     private String pincode;
     private String country;
     private String id;
-    private String phone no;
+    private String phoneno;
+    private String status;
    
     public Employee() {
     }
