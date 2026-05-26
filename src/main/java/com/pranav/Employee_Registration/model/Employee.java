@@ -20,6 +20,7 @@ public class Employee {
     private String id;
     private String phoneno;
     private String status;
+    private String action;
    
     public Employee() {
     }
