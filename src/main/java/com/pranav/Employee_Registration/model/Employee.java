@@ -25,12 +25,13 @@ public class Employee {
     public Employee() {
     }
  
-    public Employee(Long Id, String name, String gender, String city, String state) {
+    public Employee(Long Id, String name, String gender, String city, String state, String pincode) {
         this.Id = Id;
         this.name = name;
         this.gender = gender;
         this.city = city;
         this.state = state;
+        this.pincode = pincode;
     }
 
     public Long getId() {
