@@ -21,6 +21,7 @@ public class Employee {
     private String phoneno;
     private String status;
     private String action;
+    private String postalCode;
     
     private String actionstatus;
     public Employee() {
